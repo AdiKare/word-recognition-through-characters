@@ -75,6 +75,3 @@ Run the app:
     node server.js
 
 Then navigate to `http://localhost:3000`
-
-##Signing up, and deploying to Heroku
-
